@@ -18,22 +18,21 @@ Actualmente cursando el Máster de Especialización en IA y Big Data. Combinando
 
 ---
 
-### 🏆 Certificaciones Oficiales (Badges)
-<p align="left">
-  <a href="https://www.credly.com/badges/63a6a358-f439-4e48-a0e7-5df01e71f07f/public_url" target="_blank">
-    <img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Badge" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Google_Cloud-Skills_Boost-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Skills" />
-  </a>
-</p>
+### 📜 Certificaciones y Formación (Click para ver)
 
-### 📜 Formación y Títulos (Click para desplegar)
+<details>
+<summary>
+  ☁️ <b>AWS Certified Cloud Practitioner — Amazon Web Services</b>
+  &nbsp; <a href="https://www.credly.com/badges/63a6a358-f439-4e48-a0e7-5df01e71f07f/public_url" target="_blank">🔗 [Verificar Oficial]</a>
+</summary>
+<br>
+  <img src="./aws.png" alt="AWS Badge" width="300">
+</details>
 
 <details>
 <summary>
   🏛️ <b>Learning AI Through Visualization — Columbia University (+)</b>
-  &nbsp; <a href="https://badges.plus.columbia.edu/40394477-cea9-4eea-adbb-334e97947527#acc.qO1AkMb4" target="_blank">🔗 [Verificar Credencial]</a>
+  &nbsp; <a href="https://badges.plus.columbia.edu/40394477-cea9-4eea-adbb-334e97947527#acc.qO1AkMb4" target="_blank">🔗 [Verificar Oficial]</a>
 </summary>
 <br>
   <img src="./columbia.png" alt="Titulo Columbia" width="100%">
@@ -42,7 +41,7 @@ Actualmente cursando el Máster de Especialización en IA y Big Data. Combinando
 <details>
 <summary>🤖 <b>Máster de Especialización en IA y Big Data (Cursando)</b></summary>
 <br>
-  <i>Actualmente en curso. Finalización prevista: 2026.</i>
+  <i>Actualmente en curso. Finalización prevista: 2025.</i>
 </details>
 
 <details>
@@ -65,8 +64,7 @@ Actualmente cursando el Máster de Especialización en IA y Big Data. Combinando
 
 ---
 
-### 📊 Mis Estadísticas
+### 📊 Actividad en GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-manuelp&show_icons=true&theme=radical" alt="Manuel Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-manuelp&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-manuelp&show_icons=true&hide_title=true&count_private=true&hide=issues,contribs" alt="Manuel Stats" />
 </p>
