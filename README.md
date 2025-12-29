@@ -18,7 +18,23 @@ Actualmente cursando el Máster de Especialización en IA y Big Data. Combinando
 
 ---
 
-### 📜 Certificaciones y Formación (Click para ver)
+### 🎓 Formación Académica Oficial
+
+<details>
+<summary>🤖 <b>Máster de Especialización en IA y Big Data (Cursando)</b></summary>
+<br>
+  <i>Actualmente en curso. Finalización prevista: 2025.</i>
+</details>
+
+<details>
+<summary>🏛️ <b>Técnico Superior en Desarrollo de Aplicaciones Web (DAW)</b></summary>
+<br>
+  <i>Título Oficial de Formación Profesional Superior.</i>
+</details>
+
+---
+
+### 🏆 Certificaciones y Cursos de Especialización
 
 <details>
 <summary>
@@ -31,17 +47,11 @@ Actualmente cursando el Máster de Especialización en IA y Big Data. Combinando
 
 <details>
 <summary>
-  🏛️ <b>Learning AI Through Visualization — Columbia University (+)</b>
+  🇺🇸 <b>Learning AI Through Visualization — Columbia University (+)</b>
   &nbsp; <a href="https://badges.plus.columbia.edu/40394477-cea9-4eea-adbb-334e97947527#acc.qO1AkMb4" target="_blank">🔗 [Verificar Oficial]</a>
 </summary>
 <br>
   <img src="./columbia.png" alt="Titulo Columbia" width="100%">
-</details>
-
-<details>
-<summary>🤖 <b>Máster de Especialización en IA y Big Data (Cursando)</b></summary>
-<br>
-  <i>Actualmente en curso. Finalización prevista: 2025.</i>
 </details>
 
 <details>
@@ -55,16 +65,3 @@ Actualmente cursando el Máster de Especialización en IA y Big Data. Combinando
 <br>
   <img src="./seguridad.png" alt="Titulo Ciberseguridad" width="100%">
 </details>
-
-<details>
-<summary>🎓 <b>Técnico Superior en Desarrollo de Aplicaciones Web (DAW)</b></summary>
-<br>
-  <i>Título Oficial de Formación Profesional Superior.</i>
-</details>
-
----
-
-### 📊 Actividad en GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-manuelp&show_icons=true&hide_title=true&count_private=true&hide=issues,contribs" alt="Manuel Stats" />
-</p>
