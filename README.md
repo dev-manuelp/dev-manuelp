@@ -7,8 +7,6 @@ Actualmente cursando el Máster de Especialización en IA y Big Data. Combinando
 
 ### 🛠️ Tech Stack
 
-### 🛠️ Tech Stack
-
 **🧠 Inteligencia Artificial & Data Science**
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
