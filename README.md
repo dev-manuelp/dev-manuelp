@@ -42,7 +42,7 @@ Actualmente cursando el Máster de Especialización en IA y Big Data. Combinando
 <details>
 <summary>🤖 <b>Máster de Especialización en IA y Big Data (Cursando)</b></summary>
 <br>
-  <i>Actualmente en curso. Finalización prevista: 2025.</i>
+  <i>Actualmente en curso. Finalización prevista: 2026.</i>
 </details>
 
 <details>
