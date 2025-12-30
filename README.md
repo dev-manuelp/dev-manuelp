@@ -1,4 +1,4 @@
-![Banner](./github-banner.png)
+![Banner](./banner240.png)
 
 <p style="font-size:16px; line-height:1.7;">
   Combinando la solidez del desarrollo <strong>Full Stack</strong> con los nuevos paradigmas de la 
