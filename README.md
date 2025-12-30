@@ -1,12 +1,12 @@
 ![Banner](./github-banner.png)
 
-<p style="font-size:16px; line-height:1.6;">
+<p style="font-size:17px; line-height:1.65; margin-top:18px;">
   Combinando la solidez del desarrollo <strong>Full Stack</strong> con los nuevos paradigmas de la 
   <strong>Inteligencia Artificial</strong> para diseñar soluciones inteligentes que no solo ejecutan tareas,
   sino que <strong>aprenden y deciden</strong>.
 </p>
 
-<p style="font-size:15px;">
+<p style="font-size:16px; margin-top:6px;">
   Actualmente cursando el <strong>Máster de Especialización en IA y Big Data</strong>.
 </p>
 
