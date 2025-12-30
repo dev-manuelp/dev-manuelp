@@ -79,7 +79,7 @@
   &nbsp; <a href="https://www.credly.com/badges/63a6a358-f439-4e48-a0e7-5df01e71f07f/public_url" target="_blank">🔗 [Verificar Oficial]</a>
 </summary>
 <br>
-  <img src="./aws.png" alt="AWS Badge" width="300">
+  <img src="./aws-academy-graduate-cloud-foundations-training-bad.png" alt="AWS Badge" width="300">
 </details>
 
 <details>
