@@ -1,8 +1,8 @@
 ![Banner](./github-banner.png)
 
-#Combinando la solidez del desarrollo **Full Stack** con los nuevos paradigmas de la **Inteligencia Artificial** para diseñar soluciones inteligentes que no solo ejecutan tareas, sino que **aprenden y deciden**.
+# Combinando la solidez del desarrollo **Full Stack** con los nuevos paradigmas de la **Inteligencia Artificial** para diseñar soluciones inteligentes que no solo ejecutan tareas, sino que **aprenden y deciden**.
 
-#Actualmente cursando el **Máster de Especialización en IA y Big Data**.
+# Actualmente cursando el **Máster de Especialización en IA y Big Data**.
 
 
 ### 🛠️ Tech Stack
