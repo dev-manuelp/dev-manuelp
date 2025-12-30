@@ -49,6 +49,10 @@
 
 
 ---
+### 🌍 Idiomas
+<p>
+  <img height="24" src="https://img.shields.io/badge/English-B2-145A43?style=flat&logo=googletranslate&logoColor=white" />
+</p>
 
 ### 🎓 Formación Académica Oficial
 
