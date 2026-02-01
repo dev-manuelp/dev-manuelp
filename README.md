@@ -72,12 +72,13 @@
 ---
 
 ### 🏆 Certificaciones y Cursos de Especialización
-
 <details>
   <summary>
   ☁️ <b>AWS Academy Graduate - Machine Learning Foundations - Training Badge</b>
   &nbsp; <a href="https://www.credly.com/badges/5d972f43-e9a0-495d-b876-1a2277c4a120/public_url" target="_blank">🔗 [Verificar Oficial]</a>
 </summary>
+  </details>
+<details>
 <summary>
   ☁️ <b>AWS Certified Cloud Practitioner — Amazon Web Services</b>
   &nbsp; <a href="https://www.credly.com/badges/63a6a358-f439-4e48-a0e7-5df01e71f07f/public_url" target="_blank">🔗 [Verificar Oficial]</a>
