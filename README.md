@@ -72,6 +72,14 @@
 ---
 
 ### 🏆 Certificaciones y Cursos de Especialización
+
+<details>
+  <summary>
+  ☁️ <b>AWS Academy Graduate - Generative AI Foundations</b>
+  &nbsp; <a href="https://www.credly.com/badges/78323cd6-3e05-43e4-8cdc-4c6a883f0f6e/public_url">🔗 [Verificar Oficial]</a>
+</summary>
+  </details>
+  
 <details>
   <summary>
   ☁️ <b>AWS Academy Graduate - Machine Learning Foundations - Training Badge</b>
