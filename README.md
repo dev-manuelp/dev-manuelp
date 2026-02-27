@@ -75,6 +75,13 @@
 
 <details>
   <summary>
+  ☁️ <b>AWS Academy Graduate - Machine Learning for Natural Language Processing</b>
+  &nbsp; <a href="https://www.credly.com/badges/76a97f2c-08a4-4947-8d3e-0d8751ea44c9/public_url>🔗 [Verificar Oficial]</a>
+</summary>
+  </details>
+
+<details>
+  <summary>
   ☁️ <b>AWS Academy Graduate - Generative AI Foundations</b>
   &nbsp; <a href="https://www.credly.com/badges/78323cd6-3e05-43e4-8cdc-4c6a883f0f6e/public_url">🔗 [Verificar Oficial]</a>
 </summary>
