@@ -76,9 +76,9 @@
 <details>
   <summary>
   ☁️ <b>AWS Academy Graduate - Machine Learning for Natural Language Processing</b>
-  &nbsp; <a href="https://www.credly.com/badges/76a97f2c-08a4-4947-8d3e-0d8751ea44c9/public_url>🔗 [Verificar Oficial]</a>
-</summary>
-  </details>
+  &nbsp; <a href="https://www.credly.com/badges/76a97f2c-08a4-4947-8d3e-0d8751ea44c9/public_url">🔗 [Verificar Oficial]</a>
+  </summary>
+</details>
 
 <details>
   <summary>
